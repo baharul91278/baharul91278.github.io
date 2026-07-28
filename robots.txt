@@ -1,6 +1,4 @@
-# robots.txt for AllYonoGamesSite
-
 User-agent: *
 Allow: /
 
-Sitemap: https://allyonogamesite.com/sitemap.xml
+Sitemap: https://baharul91278.github.io/sitemap.xml
